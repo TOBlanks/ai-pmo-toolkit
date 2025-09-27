@@ -1,5 +1,5 @@
 # AI PMO-in-a-Box Toolkit
-Designed a conceptual toolkit demonstrating how AI can support PMO functions through charters, risk logs, and action trackers. Focused on enhancing structure, consistency, and adoption across enterprise programs. Full sample charters and templates available upon request.
+A conceptual example of how AI can be applied to project management operations to improve structure, consistency, and adoption. Illustrative templates and samples available upon request.
 
 ## 💡 Why It Matters
 Traditional PMO reporting and documentation can take hours. By embedding AI into everyday templates, PMOs can:
